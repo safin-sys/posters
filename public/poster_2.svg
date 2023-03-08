@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Design" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#BBCC32;}
+	.st2{fill:#CC1E4F;}
+	.st3{fill:#817FBD;}
+	.st4{fill:url(#Gradiant_1_1_);}
+	.st5{font-family:'MyriadPro-Regular';}
+	.st6{font-size:33.9044px;}
+	.st7{font-size:22.5628px;}
+	.st8{font-size:17.708px;}
+	.st9{clip-path:url(#Compound_Path_1_);stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<rect id="Fill_1" x="0.2" class="st0" width="595.3" height="841.9"/>
+<rect id="Map" x="297.6" y="44.5" class="st1" width="251.9" height="605.3"/>
+<rect id="Starmap" x="45.7" y="44.5" class="st2" width="251.9" height="605.3"/>
+<rect id="Image" x="45.7" y="44.5" class="st3" width="503.9" height="230.8"/>
+<linearGradient id="Gradiant_1_1_" gradientUnits="userSpaceOnUse" x1="297.6379" y1="632.4007" x2="297.6379" y2="453.8395">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<rect id="Gradiant_1" x="45.7" y="433.5" class="st4" width="503.9" height="363.9"/>
+<text id="Text_3" transform="matrix(1 0 0 1 156.05 670.3818)" class="st5 st6">Lorem ipsum Lorem</text>
+<text id="Text_2" transform="matrix(1 0 0 1 174.3862 709.1442)" class="st5 st7">Lorem ipsumLorem ipsum</text>
+<text id="Text_1" transform="matrix(1 0 0 1 200.9839 742.9062)" class="st5 st8">Lorem ipsumLorem ipsum</text>
+<g id="Mask_1">
+	<defs>
+		<path id="Compound_Path" d="M62.4,420.4v480.3h470.5V420.4H62.4z M453.7,750.5H142.5V570.6h311.2V750.5z"/>
+	</defs>
+	<clipPath id="Compound_Path_1_">
+		<use xlink:href="#Compound_Path"  style="overflow:visible;"/>
+	</clipPath>
+	<line id="Stroke_1" class="st9" x1="84.4" y1="664.5" x2="510.9" y2="664.5"/>
+</g>
+<rect id="Stroke_3" x="-92.1" y="154.5" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 718.583 123.3071)" class="st10" width="779.5" height="532.9"/>
+<rect id="Stroke_2" x="-78.8" y="169" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 718.583 123.3071)" class="st11" width="753" height="503.9"/>
+</svg>
