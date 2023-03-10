@@ -54,7 +54,7 @@
 	<circle id="Fill_14" class="st11" cx="297.6" cy="456.5" r="154.1"/>
 	<circle id="Star" class="st12" cx="181.1" cy="285.4" r="125.8"/>
 	<circle id="Map" class="st4" cx="414.1" cy="285.4" r="125.8"/>
-	<circle id="Image" class="st0" cx="297.6" cy="456.5" r="125.8"/>
+	<circle id="Image" data-type="image" class="st0" cx="297.6" cy="456.5" r="125.8"/>
 	<g id="Text_3" class="st13">
 		<text transform="matrix(0.9008 0 0 1 249.8569 787.7559)" class="st14 st15">32.13.3023</text>
 	</g>
